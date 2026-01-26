@@ -1,0 +1,47 @@
+﻿需要(0/1),簡化標記,CKIP 詞類標記說明
+1,A,A /非謂形容詞/
+0,Caa,Caa /對等連接詞，如：和、跟/
+0,Cab,Cab /連接詞，如：等等/
+0,Cba,Cbab /連接詞，如：的話/
+0,Cbb,"Cbaa, Cbba, Cbbb, Cbca, Cbcb /關聯連接詞/"
+1,D,"Dab, Dbaa, Dbab, Dbb, Dbc, Dc, Dd, Dg, Dh, Dj /副詞/"
+0,Da,Daa /數量副詞/
+0,DE,"DE /的, 之, 得, 地/"
+1,Dfa,Dfa /動詞前程度副詞/
+1,Dfb,Dfb /動詞後程度副詞/
+1,Di,Di /時態標記/
+1,Dk,Dk /句副詞/
+1,FW,FW /外文標記/
+0,I,I /感嘆詞/
+1,Na,"Naa, Nab, Nac, Nad, Naea, Naeb /普通名詞/"
+1,Nb,"Nba, Nbc /專有名稱/"
+1,Nc,"Nca, Ncb, Ncc, Nce /地方詞/"
+1,Ncd,"Ncda, Ncdb /位置詞/"
+1,Nd,"Ndaa, Ndab, Ndc, Ndd /時間詞/"
+0,Nep,Nep /指代定詞/
+0,Neqa,Neqa /數量定詞/
+0,Neqb,Neqb /後置數量定詞/
+0,Nes,Nes /特指定詞/
+0,Neu,Neu /數詞定詞/
+0,Nf,"Nfa, Nfb, Nfc, Nfd, Nfe, Nfg, Nfh, Nfi /量詞/"
+0,Ng,Ng /後置詞/
+0,Nh,"Nhaa, Nhab, Nhac, Nhb, Nhc /代名詞/"
+0,P,P* /介詞/
+0,SHI,SHI /是/
+0,T,"Ta, Tb, Tc, Td /語助詞/"
+1,VA,"VA11, VA12, VA13, VA3, VA4 /動作不及物動詞/"
+1,VAC,VA2 /動作使動動詞/
+1,VB,"VB11, VB12, VB2 /動作類及物動詞/"
+1,VC,"VC2, VC31, VC32, VC33 /動作及物動詞/"
+1,VCL,VC1 /動作接地方賓語動詞/
+1,VD,"VD1, VD2 /雙賓動詞/"
+1,VE,"VE11, VE12, VE2 /動作句賓動詞/"
+1,VF,"VF1, VF2 /動作謂賓動詞/"
+1,VG,"VG1, VG2 /分類動詞/"
+1,VH,"VH11, VH12, VH13, VH14, VH15, VH17, VH21 /狀態不及物動詞/"
+1,VHC,"VH16, VH22 /狀態使動動詞/"
+1,VI,"VI1, VI2, VI3 /狀態類及物動詞/"
+1,VJ,"VJ1, VJ2, VJ3 /狀態及物動詞/"
+1,VK,"VK1, VK2 /狀態句賓動詞/"
+1,VL,"VL1, VL2, VL3, VL4 /狀態謂賓動詞/"
+0,V_2,V_2 /有/
