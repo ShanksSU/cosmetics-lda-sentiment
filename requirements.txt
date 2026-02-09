@@ -12,3 +12,8 @@ accelerate
 bitsandbytes
 protobuf
 scipy
+bertopic
+sentence-transformers
+bertopic
+bertopic[visualization]
+cryptography
